@@ -1,3 +1,14 @@
+сервис для видеозвонков, аналог zoom, skype и тд.
+стэк
+webrts (p2p соединение)
+js
+основной функционал
+создание комнат
+групповые звонки
+чат
+демонстрация экрана
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
